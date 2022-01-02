@@ -323,7 +323,7 @@ Goodbye`
 exports.source = () =>{
 return`*── 「 SOURCE 」 ──*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
+Base : https://github.com/S
 Recode : SAYANG DOI
 `
 }
@@ -333,7 +333,7 @@ exports.tos = (ownernomer) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 0887435047326 (OVO/Dana/GoPay)
+🏧 087819037706 (OVO/Dana/GoPay)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
